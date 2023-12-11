@@ -3,8 +3,12 @@
 > Records on previously trained policies
 ## Hyperparameter_Optimizer.ipynb 
 > Use to find optimized hyperparameters for RL agent
+## Hyperparameter_Optimizer_sample.html
+> Sample output of 50 Optuna trials in Hyperparameter_Optimizer.ipynb
 ## MS_Pacman_PG.ipynb
 >  Use to train policy network to play Ms. Pac-Man
+## MS_Pacman_PG_sample.html
+> Sample output of 100 training episodes in MS_Pacman_PG.ipynb
 ## MsPacManPG_optimized.pt
 > Policy network object of RL agent trained on Ms. Pac-Man
 ## MsPacMan_study.db
